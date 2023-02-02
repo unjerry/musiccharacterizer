@@ -1,0 +1,9 @@
+in this section you ought to make a standard to store the data transform from wav
+
+I would like to call this structure "purewaveform" pwf
+
+the "purewaveform" file contains 
+
+1.the number of Byte
+
+2.
